@@ -3,8 +3,8 @@
 This project demonstrates the use of advanced HTML table features like `rowspan` and `colspan`. The layout shows how cells can be merged vertically and horizontally using these attributes.
 
 ## 🔗 Live Demo
-- [View on Vercel](#)
-- [View on Netlify](#)
+- [View on Vercel](https://project2-table2.vercel.app/)
+- [View on Netlify](https://htmlproject2-rowspan-colspan-by-virat.netlify.app/)
 
 ## 🛠️ Technologies Used
 - HTML

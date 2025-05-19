@@ -4,8 +4,8 @@ This project demonstrates the use of advanced HTML table features like `rowspan`
 
 ## 🔗 Live Demo
 
-- [View on Vercel](#)
-- [View on Netlify](#)
+- [View on Vercel](https://html-project3-table3.vercel.app/)
+- [View on Netlify](https://html-project3-table3-by-viratrai.netlify.app/)
 
 ## 🛠️ Technologies Used
 

@@ -4,8 +4,8 @@ This project showcases an advanced multi-level HTML table with the use of `rowsp
 
 ## 🔗 Live Demo
 
-- [View on Vercel](#)  
-- [View on Netlify](#)  
+- [View on Vercel](https://html-project4-nested-rowspan-by-viratrai.vercel.app/)  
+- [View on Netlify](https://project4-nested-rowspan-by-viratrai.netlify.app/)  
 
 ## 🛠️ Technologies Used
 

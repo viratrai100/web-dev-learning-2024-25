@@ -4,8 +4,8 @@ This project features a simple HTML form containing fields for email and passwor
 
 ## 🔗 Live Demo
 
-- [View on Vercel](#)  
-- [View on Netlify](#)  
+- [View on Vercel](https://html-project5-form1-by-viratrai.vercel.app/)  
+- [View on Netlify](https://html-project5-form1-by-viratrai.netlify.app/)  
 
 ## 🛠️ Technologies Used
 

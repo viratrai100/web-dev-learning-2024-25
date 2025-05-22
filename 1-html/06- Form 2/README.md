@@ -4,8 +4,8 @@ This project demonstrates a wide range of HTML form elements including text inpu
 
 ## 🔗 Live Demo
 
-- [View on Vercel](#)  
-- [View on Netlify](#)  
+- [View on Vercel](https://html-project6-form2-by-viratrai.vercel.app/)  
+- [View on Netlify](https://html-project6-form2-by-viratrai.netlify.app/)
 
 ## 🛠️ Technologies Used
 

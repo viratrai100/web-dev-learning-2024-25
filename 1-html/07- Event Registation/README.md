@@ -4,8 +4,8 @@ This project showcases a complete event registration form built using pure HTML.
 
 ## 🔗 Live Demo
 
-- [View on Vercel](#)  
-- [View on Netlify](#)  
+- [View on Vercel](https://html-project7-by-viratrai.vercel.app/)  
+- [View on Netlify](https://html-project7-by-viratrai.netlify.app/)  
 
 ## 🛠️ Technologies Used
 

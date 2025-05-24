@@ -4,8 +4,8 @@ This project features a complete job application form built using HTML. It inclu
 
 ## 🔗 Live Demo
 
-- [View on Vercel](#)  
-- [View on Netlify](#)  
+- [View on Vercel](https://html-project8-by-viratrai.vercel.app/)  
+- [View on Netlify](https://html-project8-by-viratrai.netlify.app/)  
 
 ## 🛠️ Technologies Used
 

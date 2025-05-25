@@ -4,8 +4,8 @@ This project showcases a complex multi-section form built using HTML. It is divi
 
 ## 🔗 Live Demo
 
-- [View on Vercel](#)  
-- [View on Netlify](#)  
+- [View on Vercel](https://html-project9-by-viratrai.vercel.app/)  
+- [View on Netlify](https://html-project9-by-viratrai.netlify.app/)  
 
 ## 🛠️ Technologies Used
 

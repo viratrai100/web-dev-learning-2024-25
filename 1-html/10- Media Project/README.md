@@ -4,9 +4,6 @@ This project is a personal gaming showcase website created using pure HTML. It h
 
 ## 🔗 Live Demo
 
-- [View on Vercel](#)  
-- [View on Netlify](#)  
-
 ## 🛠️ Technologies Used
 
 - HTML
@@ -24,6 +21,6 @@ This project is a personal gaming showcase website created using pure HTML. It h
 
 ## 📝 Footer Year Note
 
-- Project was **created in 2024**.  
-- Uploaded & hosted in **2025**.  
+- Project was **created in 2024**.
+- Uploaded & hosted in **2025**.
 - Footer used as: `© 2024 - 2025 Virat Rai` to reflect both years.

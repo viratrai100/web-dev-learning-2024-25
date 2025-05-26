@@ -4,6 +4,9 @@ This project is a personal gaming showcase website created using pure HTML. It h
 
 ## 🔗 Live Demo
 
+- [View on Vercel](https://html-project10-by-viratrai.vercel.app/)
+- [View on Netlify](https://html-project10-by-viratrai.netlify.app/)
+
 ## 🛠️ Technologies Used
 
 - HTML

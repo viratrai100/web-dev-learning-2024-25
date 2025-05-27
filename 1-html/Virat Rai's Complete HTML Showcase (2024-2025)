@@ -1,0 +1,125 @@
+# 💼 Virat Rai - HTML Projects Portfolio
+
+This repository showcases a collection of **11 HTML projects** created as part of my web development journey. Projects 1 to 10 focus purely on HTML structure and concepts, while **Project 11 (Portfolio/Resume Website)** includes minimal internal CSS used specifically to maintain image quality and improve layout presentation — not for full-scale visual decoration.
+
+---
+
+## 🌐 Live Demos
+
+| Project No. | Project Title                                         | Vercel Link         | Netlify Link        |
+|-------------|-------------------------------------------------------|---------------------|---------------------|
+| 1           | HTML Table Project - Student Table                    | [Vercel](https://01-table-1-f9ijf8rm1-viratraiprojects.vercel.app/)         | [Netlify](https://html-first-project-student-table1.netlify.app/)        |
+| 2           | HTML Table Project - Rowspan and Colspan              | [Vercel](https://project2-table2.vercel.app/)         | [Netlify](https://htmlproject2-rowspan-colspan-by-virat.netlify.app/)        |
+| 3           | HTML Table Project - Rowspan and Colspan (Fixed Tags) | [Vercel](https://html-project3-table3.vercel.app/)         | [Netlify](https://html-project3-table3-by-viratrai.netlify.app/)        |
+| 4           | HTML Table Project - Nested Rowspan Example           | [Vercel](https://html-project4-nested-rowspan-by-viratrai.vercel.app/)         | [Netlify](https://project4-nested-rowspan-by-viratrai.netlify.app/)        |
+| 5           | HTML Form Project - Basic Login Form                  | [Vercel](https://html-project5-form1-by-viratrai.vercel.app/)         | [Netlify](https://html-project5-form1-by-viratrai.netlify.app/)        |
+| 6           | HTML Form Project - Input Types Showcase              | [Vercel](https://html-project6-form2-by-viratrai.vercel.app/)         | [Netlify](https://html-project6-form2-by-viratrai.netlify.app/)        |
+| 7           | HTML Form Project - Event Registration Form           | [Vercel](https://html-project7-by-viratrai.vercel.app/)         | [Netlify](https://html-project7-by-viratrai.netlify.app/)        |
+| 8           | HTML Form Project - Job Application Form              | [Vercel](https://html-project8-by-viratrai.vercel.app/)         | [Netlify](https://html-project8-by-viratrai.netlify.app/)        |
+| 9           | HTML Form Project - Complex Form                      | [Vercel](https://html-project9-by-viratrai.vercel.app/)         | [Netlify](https://html-project9-by-viratrai.netlify.app/)        |
+| 10          | HTML Project - Gaming Showcase Website                | [Vercel](https://html-project10-by-viratrai.vercel.app/)         | [Netlify](https://html-project10-by-viratrai.netlify.app/)        |
+| 11          | Personal Portfolio / Resume Website                   | [Vercel](https://html-resume-portfolio-by-viratrai.vercel.app/)         | [Netlify](https://html-resume-portfolio-by-viratrai.netlify.app/)        |
+
+
+---
+
+## 📁 Project Summaries
+
+### 1. **Student Table**
+An HTML table that displays student data in an organized tabular format.
+
+### 2. **HTML Table Project - Rowspan and Colspan**
+Demonstrates advanced table structuring using rowspan and colspan for merged cells.
+
+### 3. **HTML Table Project - Rowspan and Colspan (Fixed Tags)**
+A corrected version of Project 2 with `<thead>` wrapped properly in `<tr>` for semantic accuracy.
+
+### 4. **HTML Table Project - Nested Rowspan Example**
+Illustrates nested rowspan implementation for multi-level data hierarchy in a table.
+
+### 5. **HTML Form Project - Basic Login Form**
+A simple login form with input fields for username and password.
+
+### 6. **HTML Form Project - Input Types Showcase**
+Explores various input types like number, date, range, color, and more.
+
+### 7. **HTML Form Project - Event Registration Form**
+A complete registration form for an event with input validation and field organization.
+
+### 8. **HTML Form Project - Job Application Form**
+A job application layout including resume upload, dropdowns, and field grouping.
+
+### 9. **HTML Form Project - Complex Form**
+A detailed form with radio buttons, checkboxes, dropdowns, and various text inputs.
+
+### 10. **HTML Project - Gaming Showcase Website**
+A content-rich website with embedded YouTube videos, game descriptions, and media.
+
+### 11. **Personal Portfolio / Resume Website**
+Portfolio with personal details, skills, resume sections, project links, FAQs, and a contact form. Includes internal CSS for basic layout and image handling.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS (Internal for Project 11)**
+- Semantic HTML Tags: `<section>`, `<article>`, `<table>`, `<form>`, `<nav>`, `<details>`, `<summary>`, etc.
+- Media Tags: `<img>`, `<audio>`, `<video>`, `<iframe>`
+- Form Tags: `<input>`, `<textarea>`, `<select>`, `<button>`
+
+---
+
+## 📚 What I Learned
+
+- Structuring webpages with semantic HTML  
+- Building forms with various input types  
+- Embedding images, audio, and videos  
+- Creating mobile-friendly sections with light CSS  
+- Organizing content through sections, navigation, and tables  
+- Hosting and previewing projects on platforms like Netlify and Vercel  
+
+---
+
+## ✨ Highlights
+
+- **Projects 8–10** were integrated into the **Portfolio Website (Project 11)**
+- Learned how to present resumes, FAQs, and portfolios using only HTML and minimal CSS
+- Developed habits for clean, accessible HTML writing
+- Gained confidence for next steps: **JavaScript and React**
+
+---
+
+## 🧩 Image Resizing Fix (Used in Project 11)
+
+```css
+#resize {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+}
+```
+
+---
+
+## 👤 Author
+
+```
+Name     : Virat Rai  
+Email    : viratrai255075@gmail.com  
+LinkedIn : https://www.linkedin.com/in/viratrai100
+GitHub   : https://github.com/viratrai100  
+```
+
+---
+
+## 📝 Footer Year Note
+
+- Projects created in **2024**  
+- Uploaded and hosted in **2025**  
+- All footers follow: `© 2024 - 2025 Virat Rai. All rights reserved.`
+
+---
+
+
+🎯 Thank you for viewing my beginner web development projects. Stay tuned for updates as I level up into CSS and modern JavaScript!

@@ -6,8 +6,8 @@ This project is a simple, clean, and informative **personal resume website** bui
 
 ## 📍 Live Demo
 
-- **Vercel:** (https://html-project11-resume-by-viratrai.vercel.app/)
-- **Netlify:** (https://html-project11-resume-by-viratrai.netlify.app/)
+- [View on Vercel](https://html-resume-portfolio-by-viratrai.vercel.app/)
+- [View on Netlify](https://html-resume-portfolio-by-viratrai.netlify.app/)
 
 ---
 

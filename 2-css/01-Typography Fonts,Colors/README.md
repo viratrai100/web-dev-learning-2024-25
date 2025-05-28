@@ -5,7 +5,7 @@ This project demonstrates the use of different font families, font weights, line
 ## 🔗 Live Demo
 
 - [Live on Vercel](https://day12-css1-fonts-colors-by-viratrai.vercel.app/)
-- [Live on Netlify](https://day12-css1-fo nts-colors-by-viratrai.netlify.app/)
+- [Live on Netlify](https://day12-css1-fonts-colors-by-viratrai.netlify.app/)
 
 ## 🛠️ Technologies Used
 

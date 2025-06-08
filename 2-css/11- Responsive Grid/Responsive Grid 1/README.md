@@ -4,7 +4,7 @@ This project demonstrates a **responsive CSS Grid layout** where multiple blocks
 
 ## 🔗 Live Demo
 
-- **Vercel:** [Live Demo Link](https://css-responsive-grid1-by-virtrai.vercel.app/)
+- **Vercel:**  [Live Demo Link](https://css-responsive-grid1-by-virtrai.vercel.app/)
 - **Netlify:** [Live Demo Link](https://css-responsive-grid1-by-virtrai.netlify.app/)
 
 ## 🚀 Technologies Used

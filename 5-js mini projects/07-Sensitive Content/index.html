@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Virat Rai</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="reel-container">
+    <video id="reelVideo" src="virat.mp4" controls loop></video>
+
+    <div id="warningOverlay" class="warning-overlay">
+      <div class="warning-text">⚠️ Sensitive Content</div>
+      <div class="warning-description">
+        This video contains sensitive content. Viewer discretion is advised.
+      </div>
+      <button class="see-reel-btn" onclick="showReel()">See Video</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    color: #fff;
+}
+
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: #111;
+}
+/* 
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: lightgreen;
+} */
+
+/* -------------------------------- Box----------------------------------------- */
+/* #box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+} */
+
+/* -------------------------------- 3-Box----------------------------------------- */
+
+/* ------------------------------------Applying Timeline------------------------------------------------------------------ */
+
+/* #box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: lightseagreen;
+}
+
+#box3{
+    height: 300px;
+    width: 300px;
+    background-color: royalblue;
+} */
+
+/*------------------------------------Applying Timeline------------------------------------------------------------------ */
+
+#nav{
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 50px;
+}
+
+#part2{
+    display: flex;
+    gap: 50px;
+}
+
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    white-space: nowrap;
+}

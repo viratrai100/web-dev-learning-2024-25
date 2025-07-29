@@ -1,0 +1,85 @@
+html{
+    scroll-behavior: smooth;
+}
+.nav-slider,
+.slider{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: rgba(156, 207, 224, 0.778);
+    position: relative;
+}
+
+.nav-slider h1 {
+  font-size: 2rem;
+  margin: 0;
+  letter-spacing: 0.5rem;
+}
+
+.nav-slider h4 {
+  font-size: 1rem;
+  letter-spacing: 0.3rem;
+  opacity: 0.6;
+}
+
+.nav-cont {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background: rgb(255, 255, 255);
+    z-index: 10;
+  }
+
+.nav-cont--top{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+.nav-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    color: #000;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    transition: all 0.5s ease;
+    font-size: 0.8rem;
+  }
+
+.nav-all:hover {
+  color: white;
+  background: red;
+  transition: all 0.5s ease;
+}
+
+.nav-all-space {
+position: absolute;
+bottom: 0;
+width: 0;
+height: 6px;
+background: red;
+transition: left 0.3s ease;
+}
+
+
+/* Scrollbar Styling */
+html::-webkit-scrollbar {
+    width: 1rem;
+  }
+  
+  html::-webkit-scrollbar-track {
+    background: #eee;
+  }
+  
+  html::-webkit-scrollbar-thumb {
+    background: red;
+  }

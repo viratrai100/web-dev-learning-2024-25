@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    /* background-color: hsl(346deg, 17%, 70%);  */
+    background-color: rgba(114, 88, 101, 0.881);
+    display: flex;
+}
+
+
+#part1{
+    height: 100%;
+    width: 26%;
+    /* background-color: red; */
+}
+
+#part2 {
+    height: 100%;
+    width: 67%;
+    background-color: rgb(0, 208, 255);
+    background-image: url(images/Virat02.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#overlay{
+    height: 100%;
+    width: 100%;
+        /* background-color: rgba(161, 145, 149, 0.5); */
+        background-color: rgba(123, 114, 117, 0.393);
+}
+
+#part3 {
+    height: 100%;
+    width: 7%;
+    /* background-color: rgb(0, 255,26 ); */
+}
+
+#text-div{
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    /* background-color: red; */
+    /* left: 5%; */
+    left: 7%;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+
+#text-div h1{
+    font-size: 95px;
+    /* font-family: gilroy; */
+    font-family: monument;
+    line-height: 80px;
+    /* font-weight: 900; */
+    font-weight: 800;
+    letter-spacing: 8px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+#small-img-div{
+    height: 400px;
+    width: 300px;
+    /* background-color: red; */
+    background-image: url(images/Virat.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    transform: translate(0, -50%);
+}
+
+
+#vertical-text{
+    position: absolute;
+    /* width: 100%; */
+    /* background-color: red;   */
+    transform: rotate(90deg);
+    right: -58%;
+    top: -7%;
+    transform-origin: 0% 0%;
+}
+
+#vertical-text h1 {
+    font-size: 70px;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: monument;
+    letter-spacing: 15px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #fff;
+    color: transparent;
+}
+
+#nav{
+    position: absolute;
+    /* width: 200px; */
+    /* width: 250px; */
+    width: 450px;
+    /* left: 5%; */
+    left: 5%;
+    top: 5%;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+}
+
+#nav img{
+    height: 60px;
+}
+
+#nav h5{
+    font-size: 30px;
+    font-family: gilroy;
+    color: #fff;
+}

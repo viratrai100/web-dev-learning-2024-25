@@ -12,6 +12,12 @@ npm run build
 npm run preview
 ```
 
+## 🌐 Live Demo
+
+- 🔗 [View on Vercel](https://pasteapp-by-viratrai.vercel.app/)
+- 🔗 [View on Netlify](https://pasteapp-by-viratrai.netlify.app/)
+
+
 ### 📝 Author
 
 ```

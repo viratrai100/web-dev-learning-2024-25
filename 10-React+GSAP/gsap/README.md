@@ -12,6 +12,13 @@ npm run build
 npm run preview
 ```
 
+## 🌐 Live Demo
+
+- 🔗 [View on Vercel](https://gsap-react-viratrai.vercel.app/)
+- 🔗 [View on Netlify](https://gsap-react-viratrai.netlify.app/)
+
+
+
 ### 📝 Author
 
 ```
